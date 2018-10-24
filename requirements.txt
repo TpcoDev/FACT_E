@@ -1,0 +1,8 @@
+xmltodict
+dicttoxml
+xlrd
+pdf417gen
+cchardet
+signxml
+pysftp
+num2words
